@@ -1,2 +1,6 @@
-# Controle-de-Ponto-Spring-Boot
-sistema de controle de ponto e acesso em java usando spring boot  com conector sql incluso. 
+# Construindo um sistema de controle de ponto e acesso com Spring Boot.
+## Exercício Bootcamp Santander Dio
+
+
+
+* Lombok
